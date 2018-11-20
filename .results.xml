@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="2.036"><testcase classname="pytests.test_index" file="pytests/test_index.py" line="12" name="test_conda_environment_activated" time="0.002367734909057617"></testcase></testsuite>
